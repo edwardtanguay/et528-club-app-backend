@@ -7,11 +7,11 @@ const port = 3311;
 
 const members = [
 	{
-		id: 1,
+		id: "28jj21",
 		name: "Robert Hammerschmidt"
 	},
 	{
-		id: 2,
+		id: "ii34ja",
 		name: "Angela Wasserturm"
 	}
 ];
