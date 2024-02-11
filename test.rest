@@ -1,0 +1,4 @@
+@url = http://localhost:3311
+
+### GET ALL MEMBERS
+GET {{url}}/members
